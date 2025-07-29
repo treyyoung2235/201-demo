@@ -1,0 +1,36 @@
+
+
+p{
+    font-weight: bold;
+}
+
+ol{
+font-style: italic;
+list-style-position: inside;
+size:30pz;
+}
+
+#top{
+    text-decoration: underline;
+    font-size: 150px;
+}
+
+.importance{
+    font-style:italic;
+    color: blueviolet;
+
+}
+
+body{
+    background-color: gray;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    color: aquamarine;
+}
+
+
+/* this sheet affects the appearance of elements of html files
